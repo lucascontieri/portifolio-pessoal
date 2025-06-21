@@ -1,2 +1,2 @@
 # portifolio-pessoal
-Apresento a os senhores meu portifólio pessoal
+Apresento aos senhores meu portifólio pessoal
